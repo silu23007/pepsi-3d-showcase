@@ -1,0 +1,6 @@
+{
+  "name": "Pepsi 3D Showcase",
+  "description": "An immersive, highly interactive 3D product showcase landing page for Pepsi, Pepsi Zero Sugar, and Pepsi Diet using React Three Fiber and GSAP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
